@@ -1,0 +1,2 @@
+# tryit.com
+tryit.com is e-commerce web application. It enables online shopping for women with advanced features. The tryit.com team  making online shopping more easier by giving a feature of uploading user’s own photo and checking out the dresses on-self. This would make shopping a relaxed task. User also can send that dress with their own photo to their friends for suggestions and feedback before buying that. 
